@@ -1,0 +1,11 @@
+loss,params,iteration,estimators
+0.007983187913767287,"{'learning_rate': 0.10944063418741538, 'min_child_samples': 130, 'n_estimators': 158, 'num_leaves': 60}",1,158
+0.008034511812863743,"{'learning_rate': 0.14724802938420453, 'min_child_samples': 110, 'n_estimators': 146, 'num_leaves': 56}",2,146
+0.009116845048384059,"{'learning_rate': 0.060201436446864445, 'min_child_samples': 180, 'n_estimators': 198, 'num_leaves': 52}",3,198
+0.010558694255868084,"{'learning_rate': 0.09033404674117412, 'min_child_samples': 105, 'n_estimators': 106, 'num_leaves': 42}",4,106
+0.03720080525287606,"{'learning_rate': 0.010112097637568014, 'min_child_samples': 60, 'n_estimators': 190, 'num_leaves': 30}",5,190
+0.02995666440634337,"{'learning_rate': 0.014356869953935062, 'min_child_samples': 50, 'n_estimators': 144, 'num_leaves': 41}",6,144
+0.00961230406955127,"{'learning_rate': 0.07712169580286617, 'min_child_samples': 165, 'n_estimators': 138, 'num_leaves': 49}",7,138
+0.017322085544493993,"{'learning_rate': 0.02427571868705232, 'min_child_samples': 85, 'n_estimators': 178, 'num_leaves': 38}",8,178
+0.01753839069850527,"{'learning_rate': 0.027272119804476153, 'min_child_samples': 175, 'n_estimators': 144, 'num_leaves': 46}",9,144
+0.03028791001369968,"{'learning_rate': 0.01105683052120054, 'min_child_samples': 160, 'n_estimators': 156, 'num_leaves': 52}",10,156
